@@ -1,0 +1,33 @@
+{
+  "name": "Zenburn",
+  "author": "Jani Nurminen",
+  "homepage": "https://kippura.org/zenburnpage",
+  "scheme": "dark",
+  "pair": "light",
+  "colors": {
+    "bg": "#3f3f3f",
+    "bg-sunken": "#333333",
+    "panel": "#383838",
+    "panel-2": "#494949",
+    "elevated": "#4f4f4f",
+    "border": "#5a5a5a",
+    "border-strong": "#6f6f6f",
+    "text": "#dcdccc",
+    "text-2": "#c8c8b8",
+    "muted": "#a9a999",
+    "faint": "#8f8f8f",
+    "accent": "#f0dfaf",
+    "accent-hover": "#f2e3ba",
+    "accent-ink": "#3f3f3f",
+    "accent-soft": "#f0dfaf1f",
+    "accent-line": "#f0dfaf47",
+    "danger": "#cc9393",
+    "danger-soft": "#cc939322",
+    "success": "#9fc59f",
+    "info": "#8cd0d3",
+    "paper": "#3f3f3f",
+    "paper-text": "#dcdccc",
+    "comment": "#f0dfaf33",
+    "comment-active": "#f0dfaf66"
+  }
+}

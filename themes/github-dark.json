@@ -1,0 +1,33 @@
+{
+  "name": "GitHub Dark",
+  "author": "GitHub",
+  "homepage": "https://primer.style/primitives",
+  "scheme": "dark",
+  "pair": "user-community-github-light",
+  "colors": {
+    "bg": "#0d1117",
+    "bg-sunken": "#010409",
+    "panel": "#161b22",
+    "panel-2": "#21262d",
+    "elevated": "#21262d",
+    "border": "#30363d",
+    "border-strong": "#484f58",
+    "text": "#e6edf3",
+    "text-2": "#c9d1d9",
+    "muted": "#8b949e",
+    "faint": "#6e7681",
+    "accent": "#58a6ff",
+    "accent-hover": "#6fb2ff",
+    "accent-ink": "#0d1117",
+    "accent-soft": "#58a6ff1f",
+    "accent-line": "#58a6ff47",
+    "danger": "#f85149",
+    "danger-soft": "#f8514922",
+    "success": "#3fb950",
+    "info": "#79c0ff",
+    "paper": "#0d1117",
+    "paper-text": "#e6edf3",
+    "comment": "#58a6ff33",
+    "comment-active": "#58a6ff66"
+  }
+}

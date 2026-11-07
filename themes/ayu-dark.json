@@ -1,0 +1,33 @@
+{
+  "name": "Ayu Dark",
+  "author": "Ike Ku",
+  "homepage": "https://github.com/ayu-theme/ayu-colors",
+  "scheme": "dark",
+  "pair": "user-community-ayu-light",
+  "colors": {
+    "bg": "#0b0e14",
+    "bg-sunken": "#07090d",
+    "panel": "#0f131a",
+    "panel-2": "#131721",
+    "elevated": "#1a1f29",
+    "border": "#1e232b",
+    "border-strong": "#3d424d",
+    "text": "#bfbdb6",
+    "text-2": "#acb6bf",
+    "muted": "#808893",
+    "faint": "#565b66",
+    "accent": "#e6b450",
+    "accent-hover": "#eabe68",
+    "accent-ink": "#0b0e14",
+    "accent-soft": "#e6b4501f",
+    "accent-line": "#e6b45047",
+    "danger": "#d95757",
+    "danger-soft": "#d9575722",
+    "success": "#7fd962",
+    "info": "#39bae6",
+    "paper": "#0b0e14",
+    "paper-text": "#bfbdb6",
+    "comment": "#e6b45033",
+    "comment-active": "#e6b45066"
+  }
+}

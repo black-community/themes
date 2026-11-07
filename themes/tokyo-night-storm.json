@@ -1,0 +1,33 @@
+{
+  "name": "Tokyo Night Storm",
+  "author": "Enkia",
+  "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+  "scheme": "dark",
+  "pair": "user-community-tokyo-night-light",
+  "colors": {
+    "bg": "#24283b",
+    "bg-sunken": "#1b1e2e",
+    "panel": "#1f2335",
+    "panel-2": "#292e42",
+    "elevated": "#2f3549",
+    "border": "#3b4261",
+    "border-strong": "#545c7e",
+    "text": "#c0caf5",
+    "text-2": "#a9b1d6",
+    "muted": "#8089b3",
+    "faint": "#565f89",
+    "accent": "#7aa2f7",
+    "accent-hover": "#8daff8",
+    "accent-ink": "#24283b",
+    "accent-soft": "#7aa2f71f",
+    "accent-line": "#7aa2f747",
+    "danger": "#f7768e",
+    "danger-soft": "#f7768e22",
+    "success": "#9ece6a",
+    "info": "#7dcfff",
+    "paper": "#24283b",
+    "paper-text": "#c0caf5",
+    "comment": "#7aa2f733",
+    "comment-active": "#7aa2f766"
+  }
+}

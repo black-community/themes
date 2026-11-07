@@ -1,0 +1,10 @@
+{
+  "name": "black-community-themes",
+  "private": true,
+  "type": "module",
+  "description": "The community's colour themes for Bläck Studio, and the list the app reads them from.",
+  "scripts": {
+    "list": "node scripts/list.mjs",
+    "verify": "node scripts/list.mjs --check"
+  }
+}

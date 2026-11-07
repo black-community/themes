@@ -1,0 +1,33 @@
+{
+  "name": "Material Palenight",
+  "author": "Material Theme",
+  "homepage": "https://github.com/material-theme/vsc-material-theme",
+  "scheme": "dark",
+  "pair": "light",
+  "colors": {
+    "bg": "#292d3e",
+    "bg-sunken": "#1f2233",
+    "panel": "#232635",
+    "panel-2": "#32364a",
+    "elevated": "#34384d",
+    "border": "#3a3f58",
+    "border-strong": "#4e5579",
+    "text": "#bfc7d5",
+    "text-2": "#a6accd",
+    "muted": "#868cb0",
+    "faint": "#676e95",
+    "accent": "#c792ea",
+    "accent-hover": "#cfa1ed",
+    "accent-ink": "#292d3e",
+    "accent-soft": "#c792ea1f",
+    "accent-line": "#c792ea47",
+    "danger": "#f07178",
+    "danger-soft": "#f0717822",
+    "success": "#c3e88d",
+    "info": "#89ddff",
+    "paper": "#292d3e",
+    "paper-text": "#bfc7d5",
+    "comment": "#c792ea33",
+    "comment-active": "#c792ea66"
+  }
+}

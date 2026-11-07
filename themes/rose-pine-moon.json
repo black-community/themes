@@ -1,0 +1,33 @@
+{
+  "name": "Rosé Pine Moon",
+  "author": "Rosé Pine",
+  "homepage": "https://rosepinetheme.com",
+  "scheme": "dark",
+  "pair": "rose-pine-dawn",
+  "colors": {
+    "bg": "#232136",
+    "bg-sunken": "#1b1a2b",
+    "panel": "#2a273f",
+    "panel-2": "#393552",
+    "elevated": "#393552",
+    "border": "#44415a",
+    "border-strong": "#56526e",
+    "text": "#e0def4",
+    "text-2": "#c4c0dd",
+    "muted": "#908caa",
+    "faint": "#6e6a86",
+    "accent": "#c4a7e7",
+    "accent-hover": "#ccb3ea",
+    "accent-ink": "#232136",
+    "accent-soft": "#c4a7e71f",
+    "accent-line": "#c4a7e747",
+    "danger": "#eb6f92",
+    "danger-soft": "#eb6f9222",
+    "success": "#9ccfd8",
+    "info": "#3e8fb0",
+    "paper": "#232136",
+    "paper-text": "#e0def4",
+    "comment": "#c4a7e733",
+    "comment-active": "#c4a7e766"
+  }
+}

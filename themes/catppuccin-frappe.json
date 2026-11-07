@@ -1,0 +1,33 @@
+{
+  "name": "Catppuccin Frappé",
+  "author": "Catppuccin",
+  "homepage": "https://catppuccin.com",
+  "scheme": "dark",
+  "pair": "light",
+  "colors": {
+    "bg": "#303446",
+    "bg-sunken": "#232634",
+    "panel": "#292c3c",
+    "panel-2": "#414559",
+    "elevated": "#414559",
+    "border": "#51576d",
+    "border-strong": "#626880",
+    "text": "#c6d0f5",
+    "text-2": "#b5bfe2",
+    "muted": "#949cbb",
+    "faint": "#737994",
+    "accent": "#ca9ee6",
+    "accent-hover": "#d1acea",
+    "accent-ink": "#303446",
+    "accent-soft": "#ca9ee61f",
+    "accent-line": "#ca9ee647",
+    "danger": "#e78284",
+    "danger-soft": "#e7828422",
+    "success": "#a6d189",
+    "info": "#8caaee",
+    "paper": "#303446",
+    "paper-text": "#c6d0f5",
+    "comment": "#ca9ee633",
+    "comment-active": "#ca9ee666"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "One Light",
+  "author": "Atom",
+  "homepage": "https://github.com/atom/atom",
+  "scheme": "light",
+  "pair": "user-community-one-dark",
+  "colors": {
+    "bg": "#fafafa",
+    "bg-sunken": "#eaeaeb",
+    "panel": "#f0f0f1",
+    "panel-2": "#e5e5e6",
+    "elevated": "#ffffff",
+    "border": "#dbdbdc",
+    "border-strong": "#c5c5c6",
+    "text": "#383a42",
+    "text-2": "#50525a",
+    "muted": "#696c77",
+    "faint": "#a0a1a7",
+    "accent": "#4078f2",
+    "accent-hover": "#3767d0",
+    "accent-ink": "#ffffff",
+    "accent-soft": "#4078f21f",
+    "accent-line": "#4078f247",
+    "danger": "#e45649",
+    "danger-soft": "#e4564922",
+    "success": "#50a14f",
+    "info": "#0184bc",
+    "paper": "#fafafa",
+    "paper-text": "#383a42",
+    "comment": "#4078f233",
+    "comment-active": "#4078f266"
+  }
+}

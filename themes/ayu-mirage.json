@@ -1,0 +1,33 @@
+{
+  "name": "Ayu Mirage",
+  "author": "Ike Ku",
+  "homepage": "https://github.com/ayu-theme/ayu-colors",
+  "scheme": "dark",
+  "pair": "user-community-ayu-light",
+  "colors": {
+    "bg": "#242936",
+    "bg-sunken": "#1c212b",
+    "panel": "#1f2430",
+    "panel-2": "#2a3040",
+    "elevated": "#2d3343",
+    "border": "#343b4c",
+    "border-strong": "#4a5266",
+    "text": "#cccac2",
+    "text-2": "#b8cfe6",
+    "muted": "#8a93a5",
+    "faint": "#707a8c",
+    "accent": "#ffcc66",
+    "accent-hover": "#ffd37b",
+    "accent-ink": "#242936",
+    "accent-soft": "#ffcc661f",
+    "accent-line": "#ffcc6647",
+    "danger": "#ff6666",
+    "danger-soft": "#ff666622",
+    "success": "#87d96c",
+    "info": "#5ccfe6",
+    "paper": "#242936",
+    "paper-text": "#cccac2",
+    "comment": "#ffcc6633",
+    "comment-active": "#ffcc6666"
+  }
+}

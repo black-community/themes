@@ -1,0 +1,33 @@
+{
+  "name": "Tomorrow Night",
+  "author": "Chris Kempson",
+  "homepage": "https://github.com/chriskempson/tomorrow-theme",
+  "scheme": "dark",
+  "pair": "light",
+  "colors": {
+    "bg": "#1d1f21",
+    "bg-sunken": "#151718",
+    "panel": "#232527",
+    "panel-2": "#282a2e",
+    "elevated": "#2e3134",
+    "border": "#373b41",
+    "border-strong": "#4d5157",
+    "text": "#c5c8c6",
+    "text-2": "#b4b7b4",
+    "muted": "#969896",
+    "faint": "#707880",
+    "accent": "#81a2be",
+    "accent-hover": "#93afc7",
+    "accent-ink": "#1d1f21",
+    "accent-soft": "#81a2be1f",
+    "accent-line": "#81a2be47",
+    "danger": "#cc6666",
+    "danger-soft": "#cc666622",
+    "success": "#b5bd68",
+    "info": "#8abeb7",
+    "paper": "#1d1f21",
+    "paper-text": "#c5c8c6",
+    "comment": "#81a2be33",
+    "comment-active": "#81a2be66"
+  }
+}

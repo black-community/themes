@@ -1,0 +1,33 @@
+{
+  "name": "Night Owl",
+  "author": "Sarah Drasner",
+  "homepage": "https://github.com/sdras/night-owl-vscode-theme",
+  "scheme": "dark",
+  "pair": "light",
+  "colors": {
+    "bg": "#011627",
+    "bg-sunken": "#010e1a",
+    "panel": "#0b2942",
+    "panel-2": "#102f4a",
+    "elevated": "#13344f",
+    "border": "#1d3b53",
+    "border-strong": "#2c5273",
+    "text": "#d6deeb",
+    "text-2": "#c5e4fd",
+    "muted": "#7e97ac",
+    "faint": "#5f7e97",
+    "accent": "#82aaff",
+    "accent-hover": "#94b6ff",
+    "accent-ink": "#011627",
+    "accent-soft": "#82aaff1f",
+    "accent-line": "#82aaff47",
+    "danger": "#ef5350",
+    "danger-soft": "#ef535022",
+    "success": "#addb67",
+    "info": "#7fdbca",
+    "paper": "#011627",
+    "paper-text": "#d6deeb",
+    "comment": "#82aaff33",
+    "comment-active": "#82aaff66"
+  }
+}

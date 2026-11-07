@@ -1,0 +1,33 @@
+{
+  "name": "Flexoki Light",
+  "author": "Steph Ango",
+  "homepage": "https://stephango.com/flexoki",
+  "scheme": "light",
+  "pair": "user-community-flexoki-dark",
+  "colors": {
+    "bg": "#fffcf0",
+    "bg-sunken": "#e6e4d9",
+    "panel": "#f2f0e5",
+    "panel-2": "#e6e4d9",
+    "elevated": "#fffcf0",
+    "border": "#dad8ce",
+    "border-strong": "#cecdc3",
+    "text": "#100f0f",
+    "text-2": "#403e3c",
+    "muted": "#6f6e69",
+    "faint": "#b7b5ac",
+    "accent": "#bc5215",
+    "accent-hover": "#a24712",
+    "accent-ink": "#ffffff",
+    "accent-soft": "#bc52151f",
+    "accent-line": "#bc521547",
+    "danger": "#af3029",
+    "danger-soft": "#af302922",
+    "success": "#66800b",
+    "info": "#205ea6",
+    "paper": "#fffcf0",
+    "paper-text": "#100f0f",
+    "comment": "#bc521533",
+    "comment-active": "#bc521566"
+  }
+}

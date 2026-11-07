@@ -1,0 +1,385 @@
+{
+  "name": "Bläck Studio community",
+  "themes": [
+    {
+      "id": "ayu-dark",
+      "name": "Ayu Dark",
+      "author": "Ike Ku",
+      "homepage": "https://github.com/ayu-theme/ayu-colors",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/ayu-dark.json",
+      "sha256": "bfaa8334919046c83b824540c76c82e3fcb3ae0cf8b3665024d293272c330b3d",
+      "size": 830,
+      "preview": {
+        "bg": "#0b0e14",
+        "panel": "#0f131a",
+        "border": "#1e232b",
+        "faint": "#565b66",
+        "accent": "#e6b450",
+        "paper": "#0b0e14",
+        "paper-text": "#bfbdb6"
+      }
+    },
+    {
+      "id": "ayu-light",
+      "name": "Ayu Light",
+      "author": "Ike Ku",
+      "homepage": "https://github.com/ayu-theme/ayu-colors",
+      "scheme": "light",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/ayu-light.json",
+      "sha256": "f114762492ddb0a2276c126daac51b13a491a851ffea55d88b03d75f1638fac0",
+      "size": 833,
+      "preview": {
+        "bg": "#fcfcfc",
+        "panel": "#f3f4f5",
+        "border": "#dfe1e3",
+        "faint": "#a0a3a8",
+        "accent": "#d97d00",
+        "paper": "#fcfcfc",
+        "paper-text": "#4f5358"
+      }
+    },
+    {
+      "id": "ayu-mirage",
+      "name": "Ayu Mirage",
+      "author": "Ike Ku",
+      "homepage": "https://github.com/ayu-theme/ayu-colors",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/ayu-mirage.json",
+      "sha256": "5c5d49b9119e41c809da7762744d3e7ea5dfbde7cead84a1609882fca521c7bf",
+      "size": 832,
+      "preview": {
+        "bg": "#242936",
+        "panel": "#1f2430",
+        "border": "#343b4c",
+        "faint": "#707a8c",
+        "accent": "#ffcc66",
+        "paper": "#242936",
+        "paper-text": "#cccac2"
+      }
+    },
+    {
+      "id": "catppuccin-frappe",
+      "name": "Catppuccin Frappé",
+      "author": "Catppuccin",
+      "homepage": "https://catppuccin.com",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/catppuccin-frappe.json",
+      "sha256": "a5426d18cb7d9af1f9d7605d6756994788dd93560d3f344b193edf000ba63ad3",
+      "size": 808,
+      "preview": {
+        "bg": "#303446",
+        "panel": "#292c3c",
+        "border": "#51576d",
+        "faint": "#737994",
+        "accent": "#ca9ee6",
+        "paper": "#303446",
+        "paper-text": "#c6d0f5"
+      }
+    },
+    {
+      "id": "catppuccin-macchiato",
+      "name": "Catppuccin Macchiato",
+      "author": "Catppuccin",
+      "homepage": "https://catppuccin.com",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/catppuccin-macchiato.json",
+      "sha256": "3d86e545e731828ad4d9d7edf6478ca0f26ab8a05ca88a9a649c140877621766",
+      "size": 810,
+      "preview": {
+        "bg": "#24273a",
+        "panel": "#1e2030",
+        "border": "#494d64",
+        "faint": "#6e738d",
+        "accent": "#c6a0f6",
+        "paper": "#24273a",
+        "paper-text": "#cad3f5"
+      }
+    },
+    {
+      "id": "flexoki-dark",
+      "name": "Flexoki Dark",
+      "author": "Steph Ango",
+      "homepage": "https://stephango.com/flexoki",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/flexoki-dark.json",
+      "sha256": "dde3b5610e66101c4c5e2d94cb11d62c6cee4aaaebc1edf903264401f1e49755",
+      "size": 832,
+      "preview": {
+        "bg": "#100f0f",
+        "panel": "#1c1b1a",
+        "border": "#343331",
+        "faint": "#6f6e69",
+        "accent": "#da702c",
+        "paper": "#100f0f",
+        "paper-text": "#cecdc3"
+      }
+    },
+    {
+      "id": "flexoki-light",
+      "name": "Flexoki Light",
+      "author": "Steph Ango",
+      "homepage": "https://stephango.com/flexoki",
+      "scheme": "light",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/flexoki-light.json",
+      "sha256": "396078b6754ac16cf197667263b4f668802cc4acd465d5dc18d4ff7863a0394a",
+      "size": 833,
+      "preview": {
+        "bg": "#fffcf0",
+        "panel": "#f2f0e5",
+        "border": "#dad8ce",
+        "faint": "#b7b5ac",
+        "accent": "#bc5215",
+        "paper": "#fffcf0",
+        "paper-text": "#100f0f"
+      }
+    },
+    {
+      "id": "github-dark",
+      "name": "GitHub Dark",
+      "author": "GitHub",
+      "homepage": "https://primer.style/primitives",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/github-dark.json",
+      "sha256": "223699f1edb4f8b05170bdb471a5f51ee236181a5b58abc0003bd8a0be93851d",
+      "size": 828,
+      "preview": {
+        "bg": "#0d1117",
+        "panel": "#161b22",
+        "border": "#30363d",
+        "faint": "#6e7681",
+        "accent": "#58a6ff",
+        "paper": "#0d1117",
+        "paper-text": "#e6edf3"
+      }
+    },
+    {
+      "id": "github-light",
+      "name": "GitHub Light",
+      "author": "GitHub",
+      "homepage": "https://primer.style/primitives",
+      "scheme": "light",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/github-light.json",
+      "sha256": "ae1a0a96dd9abf31be481a105b3d8e80c72dfab50e52263c492789975393e70e",
+      "size": 829,
+      "preview": {
+        "bg": "#ffffff",
+        "panel": "#f6f8fa",
+        "border": "#d0d7de",
+        "faint": "#8c959f",
+        "accent": "#0969da",
+        "paper": "#ffffff",
+        "paper-text": "#1f2328"
+      }
+    },
+    {
+      "id": "kanagawa",
+      "name": "Kanagawa",
+      "author": "Tommaso Laurenzi",
+      "homepage": "https://github.com/rebelot/kanagawa.nvim",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/kanagawa.json",
+      "sha256": "76debdfb709115de15319c1bea8d4f0ffa5955c701b0facf896584cfb677a793",
+      "size": 822,
+      "preview": {
+        "bg": "#1f1f28",
+        "panel": "#1a1a22",
+        "border": "#363646",
+        "faint": "#727169",
+        "accent": "#7e9cd8",
+        "paper": "#1f1f28",
+        "paper-text": "#dcd7ba"
+      }
+    },
+    {
+      "id": "monokai",
+      "name": "Monokai",
+      "author": "Wimer Hazenberg",
+      "homepage": "https://monokai.nl",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/monokai.json",
+      "sha256": "f30482da5c7b3015e1944a035abb41015c7016f22431e408887d1ed816c1cd5c",
+      "size": 798,
+      "preview": {
+        "bg": "#272822",
+        "panel": "#1e1f1c",
+        "border": "#3e3d32",
+        "faint": "#75715e",
+        "accent": "#a6e22e",
+        "paper": "#272822",
+        "paper-text": "#f8f8f2"
+      }
+    },
+    {
+      "id": "night-owl",
+      "name": "Night Owl",
+      "author": "Sarah Drasner",
+      "homepage": "https://github.com/sdras/night-owl-vscode-theme",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/night-owl.json",
+      "sha256": "2de9c10ff00db69c5b44dd5ff4a800a1c1205bccadd70a35a770e34f3f2e8e6d",
+      "size": 827,
+      "preview": {
+        "bg": "#011627",
+        "panel": "#0b2942",
+        "border": "#1d3b53",
+        "faint": "#5f7e97",
+        "accent": "#82aaff",
+        "paper": "#011627",
+        "paper-text": "#d6deeb"
+      }
+    },
+    {
+      "id": "one-dark",
+      "name": "One Dark",
+      "author": "Atom",
+      "homepage": "https://github.com/atom/atom",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/one-dark.json",
+      "sha256": "eb280553d20b4fa8f3827729adced7ae0781940132f05cba5a44be4c46ff1e0b",
+      "size": 817,
+      "preview": {
+        "bg": "#282c34",
+        "panel": "#21252b",
+        "border": "#3a3f4b",
+        "faint": "#5c6370",
+        "accent": "#61afef",
+        "paper": "#282c34",
+        "paper-text": "#c8ccd4"
+      }
+    },
+    {
+      "id": "one-light",
+      "name": "One Light",
+      "author": "Atom",
+      "homepage": "https://github.com/atom/atom",
+      "scheme": "light",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/one-light.json",
+      "sha256": "f71f43aad36d359db79892b4267a8b87ec766b4098662c1201d267682aa0657a",
+      "size": 818,
+      "preview": {
+        "bg": "#fafafa",
+        "panel": "#f0f0f1",
+        "border": "#dbdbdc",
+        "faint": "#a0a1a7",
+        "accent": "#4078f2",
+        "paper": "#fafafa",
+        "paper-text": "#383a42"
+      }
+    },
+    {
+      "id": "palenight",
+      "name": "Material Palenight",
+      "author": "Material Theme",
+      "homepage": "https://github.com/material-theme/vsc-material-theme",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/palenight.json",
+      "sha256": "dd3ce416512ab04749c2109ef7a640a78ce3a62c6b5154aa7fe9ee3a6f78dbf4",
+      "size": 842,
+      "preview": {
+        "bg": "#292d3e",
+        "panel": "#232635",
+        "border": "#3a3f58",
+        "faint": "#676e95",
+        "accent": "#c792ea",
+        "paper": "#292d3e",
+        "paper-text": "#bfc7d5"
+      }
+    },
+    {
+      "id": "rose-pine-moon",
+      "name": "Rosé Pine Moon",
+      "author": "Rosé Pine",
+      "homepage": "https://rosepinetheme.com",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/rose-pine-moon.json",
+      "sha256": "3999e8a005ee0512fcb2e869906b4110a44ca60a1bfd56afbafcb1f334ed03ac",
+      "size": 817,
+      "preview": {
+        "bg": "#232136",
+        "panel": "#2a273f",
+        "border": "#44415a",
+        "faint": "#6e6a86",
+        "accent": "#c4a7e7",
+        "paper": "#232136",
+        "paper-text": "#e0def4"
+      }
+    },
+    {
+      "id": "tokyo-night-light",
+      "name": "Tokyo Night Light",
+      "author": "Enkia",
+      "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+      "scheme": "light",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/tokyo-night-light.json",
+      "sha256": "ba855de2e94ee31783291fb5a2a1158e234e72422ff7905a0c787b7790639bf9",
+      "size": 857,
+      "preview": {
+        "bg": "#d5d6db",
+        "panel": "#cbccd1",
+        "border": "#b4b5ba",
+        "faint": "#8990a3",
+        "accent": "#34548a",
+        "paper": "#e1e2e7",
+        "paper-text": "#343b58"
+      }
+    },
+    {
+      "id": "tokyo-night-storm",
+      "name": "Tokyo Night Storm",
+      "author": "Enkia",
+      "homepage": "https://github.com/enkia/tokyo-night-vscode-theme",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/tokyo-night-storm.json",
+      "sha256": "1725fd499672205b8a05b0a3b834942c458648d1b238011df099aff9ff7550a8",
+      "size": 856,
+      "preview": {
+        "bg": "#24283b",
+        "panel": "#1f2335",
+        "border": "#3b4261",
+        "faint": "#565f89",
+        "accent": "#7aa2f7",
+        "paper": "#24283b",
+        "paper-text": "#c0caf5"
+      }
+    },
+    {
+      "id": "tomorrow-night",
+      "name": "Tomorrow Night",
+      "author": "Chris Kempson",
+      "homepage": "https://github.com/chriskempson/tomorrow-theme",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/tomorrow-night.json",
+      "sha256": "5c5082ec041e27eaf1c1a9034ff6e1f81e4662ba1034b73427a9caa034ce5167",
+      "size": 831,
+      "preview": {
+        "bg": "#1d1f21",
+        "panel": "#232527",
+        "border": "#373b41",
+        "faint": "#707880",
+        "accent": "#81a2be",
+        "paper": "#1d1f21",
+        "paper-text": "#c5c8c6"
+      }
+    },
+    {
+      "id": "zenburn",
+      "name": "Zenburn",
+      "author": "Jani Nurminen",
+      "homepage": "https://kippura.org/zenburnpage",
+      "scheme": "dark",
+      "url": "https://raw.githubusercontent.com/black-community/themes/main/themes/zenburn.json",
+      "sha256": "15903449981632519f2d8e196bf80905217f277a964286b5b5ff3b46f54a6668",
+      "size": 809,
+      "preview": {
+        "bg": "#3f3f3f",
+        "panel": "#383838",
+        "border": "#5a5a5a",
+        "faint": "#8f8f8f",
+        "accent": "#f0dfaf",
+        "paper": "#3f3f3f",
+        "paper-text": "#dcdccc"
+      }
+    }
+  ]
+}

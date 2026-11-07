@@ -1,0 +1,33 @@
+{
+  "name": "Monokai",
+  "author": "Wimer Hazenberg",
+  "homepage": "https://monokai.nl",
+  "scheme": "dark",
+  "pair": "light",
+  "colors": {
+    "bg": "#272822",
+    "bg-sunken": "#1e1f1c",
+    "panel": "#1e1f1c",
+    "panel-2": "#2d2e27",
+    "elevated": "#34352f",
+    "border": "#3e3d32",
+    "border-strong": "#57584f",
+    "text": "#f8f8f2",
+    "text-2": "#cfcfc2",
+    "muted": "#a59f85",
+    "faint": "#75715e",
+    "accent": "#a6e22e",
+    "accent-hover": "#b2e64b",
+    "accent-ink": "#272822",
+    "accent-soft": "#a6e22e1f",
+    "accent-line": "#a6e22e47",
+    "danger": "#f92672",
+    "danger-soft": "#f9267222",
+    "success": "#a6e22e",
+    "info": "#66d9ef",
+    "paper": "#272822",
+    "paper-text": "#f8f8f2",
+    "comment": "#a6e22e33",
+    "comment-active": "#a6e22e66"
+  }
+}
