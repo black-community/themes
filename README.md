@@ -1,4 +1,4 @@
-# Colour themes for Bläck Studio, from the community
+# Community colour themes for Bläck Studio
 
 [Bläck Studio](https://blackstudio.app) offers this list by default, under Settings → Theme → Find more themes. It's
 marked as not official. A theme is only colours and font names, so it can't run anything.
@@ -10,8 +10,8 @@ themes.json        the list the app reads
 
 ## Adding a theme
 
-Add `themes/<id>.json`, then run `npm run list` and commit both. It checks the colours are ones a theme can set, and
-that the text is readable.
+Add `themes/<id>.json`, then run `npm run list` and commit both. It checks that the theme sets only supported colours, and
+that the text has enough contrast.
 
 ```json
 {
@@ -24,7 +24,8 @@ that the text is readable.
 }
 ```
 
-- `pair` is the theme View → Toggle Theme goes to. A theme from this list has the id `user-community-<id>`. If the
-  writer doesn't have the pair, Bläck Studio uses its own theme in the other light.
-- Any colour you leave out comes from Bläck Studio's own dark or light. The readable ones in the example are required.
-- Credit whoever made the palette, in `author` and `homepage`, and only add one its licence allows.
+- `pair` is the theme that View → Light or Dark Theme switches to. A theme from this list has the id
+  `user-community-<id>`. If the writer doesn't have the pair, Bläck Studio uses its built-in theme for the other scheme.
+- Any colour you leave out comes from Bläck Studio's built-in dark or light theme. The colours in the example are
+  required, because they're checked for contrast.
+- Credit whoever made the palette in `author` and `homepage`, and only add a palette whose licence allows it.
